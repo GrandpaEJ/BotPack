@@ -23,7 +23,7 @@
   "license": "GPL-3.0",
   "author": "Yan Maglinte",
   "dependencies": {
-    "@distube/ytdl-core": "^4.13.3",
+    "@distube/ytdl-core": "",
     "aes-js": "^3.1.2",
     "ansi": "^0.3.1",
     "axios": "^1.6.8",
